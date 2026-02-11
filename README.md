@@ -35,6 +35,8 @@
 2. הירשמו עם חשבון Google של בית הספר
 3. בחרו בתוכנית החינמית (Starter)
 4. צרו קובץ עיצוב חדש (New Design File)
+<img width="959" height="592" alt="image" src="https://github.com/user-attachments/assets/35726e3e-4867-4de2-8ee2-57b71970ebd2" />
+
 
 ---
 
