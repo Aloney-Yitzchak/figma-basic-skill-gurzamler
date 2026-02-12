@@ -35,7 +35,7 @@
 2. הירשמו עם חשבון Google של בית הספר
 3. בחרו בתוכנית החינמית (Starter)
 4. צרו קובץ עיצוב חדש (New Design File)
-<img width="959" height="592" alt="image" src="https://github.com/user-attachments/assets/35726e3e-4867-4de2-8ee2-57b71970ebd2" />
+
 
 
 ---
@@ -50,12 +50,13 @@
 - [ ] שדה סיסמה (EditText)
 - [ ] כפתור "התחבר" (Button)
 - [ ] מרווחים אחידים בין האלמנטים
-
+<img width="959" height="592" alt="image" src="https://github.com/user-attachments/assets/35726e3e-4867-4de2-8ee2-57b71970ebd2" />
 #### מסך 2: רשימת קניות (Main) - 20 נקודות
 - [ ] כותרת "רשימת הקניות שלי"
 - [ ] רשימת פריטים (לפחות 3 פריטים לדוגמה)
 - [ ] כפתור "הוסף פריט" (בתחתית או כ-FAB)
 - [ ] כל פריט ברשימה מציג: שם + כמות + checkbox
+<img width="955" height="598" alt="image" src="https://github.com/user-attachments/assets/1852c932-9b30-4295-8f6b-33c49c24b0a9" />
 
 #### מסך 3: הוספת פריט (Add Item) - 20 נקודות
 - [ ] כותרת "הוסף פריט חדש"
