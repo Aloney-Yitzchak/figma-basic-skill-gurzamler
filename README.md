@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SyWuwB4h)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=22575635)
 # משימה 3: עיצוב אפליקציה ב-Figma 🎨
 
 ## מטרת המשימה
@@ -34,6 +36,8 @@
 3. בחרו בתוכנית החינמית (Starter)
 4. צרו קובץ עיצוב חדש (New Design File)
 
+
+
 ---
 
 ### חלק ב' - עיצוב 3 מסכים (60 נקודות)
@@ -46,12 +50,13 @@
 - [ ] שדה סיסמה (EditText)
 - [ ] כפתור "התחבר" (Button)
 - [ ] מרווחים אחידים בין האלמנטים
-
+<img width="959" height="592" alt="image" src="https://github.com/user-attachments/assets/35726e3e-4867-4de2-8ee2-57b71970ebd2" />
 #### מסך 2: רשימת קניות (Main) - 20 נקודות
 - [ ] כותרת "רשימת הקניות שלי"
 - [ ] רשימת פריטים (לפחות 3 פריטים לדוגמה)
 - [ ] כפתור "הוסף פריט" (בתחתית או כ-FAB)
 - [ ] כל פריט ברשימה מציג: שם + כמות + checkbox
+<img width="955" height="598" alt="image" src="https://github.com/user-attachments/assets/1852c932-9b30-4295-8f6b-33c49c24b0a9" />
 
 #### מסך 3: הוספת פריט (Add Item) - 20 נקודות
 - [ ] כותרת "הוסף פריט חדש"
@@ -59,6 +64,8 @@
 - [ ] בחירת כמות (מספר או +/-)
 - [ ] כפתור "שמור"
 - [ ] כפתור "ביטול" או חץ חזרה
+
+<img width="951" height="599" alt="image" src="https://github.com/user-attachments/assets/27c002c5-4769-4bb3-bdde-cc2d3c079e2f" />
 
 **דרישות עיצוב לכל המסכים:**
 - גודל Frame: Android Large (360x800) או דומה
@@ -88,6 +95,8 @@
 2. **מלאו את `DESIGN.md`** - הסבירו את בחירות העיצוב שלכם
 
 3. **שתפו קישור ל-Figma** - בתוך DESIGN.md, הדביקו את קישור השיתוף של הפרויקט
+
+ https://www.figma.com/design/BarZVSCVVFsKaBwBspq5Bv/Untitled?node-id=0-1&t=097ujiXjWKKWqHyB-1
 
 ---
 
