@@ -65,6 +65,8 @@
 - [ ] כפתור "שמור"
 - [ ] כפתור "ביטול" או חץ חזרה
 
+<img width="951" height="599" alt="image" src="https://github.com/user-attachments/assets/27c002c5-4769-4bb3-bdde-cc2d3c079e2f" />
+
 **דרישות עיצוב לכל המסכים:**
 - גודל Frame: Android Large (360x800) או דומה
 - פלטת צבעים אחידה (עד 3 צבעים עיקריים)
@@ -93,6 +95,8 @@
 2. **מלאו את `DESIGN.md`** - הסבירו את בחירות העיצוב שלכם
 
 3. **שתפו קישור ל-Figma** - בתוך DESIGN.md, הדביקו את קישור השיתוף של הפרויקט
+
+ https://www.figma.com/design/BarZVSCVVFsKaBwBspq5Bv/Untitled?node-id=0-1&t=097ujiXjWKKWqHyB-1
 
 ---
 
